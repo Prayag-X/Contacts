@@ -1,0 +1,61 @@
+name: contacts
+description: Flutter app to manage Contacts
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.3 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_translate: ^4.0.3
+  flutter_riverpod: ^2.3.7
+  shared_preferences: ^2.2.1
+  firebase_core: ^2.15.1
+  firebase_auth: ^4.9.0
+  firebase_storage: ^11.2.6
+  cloud_firestore: ^4.9.1
+  google_sign_in: ^6.1.5
+  flutter_staggered_animations: ^1.1.1
+  image_picker: ^1.0.4
+  path_provider: ^2.0.15
+  animated_bottom_navigation_bar: ^1.2.1
+  speech_to_text: ^6.1.1
+  expandable: ^5.0.1
+  flutter_switch: ^0.3.2
+  url_launcher: ^6.1.11
+  flutter_contacts: ^1.1.7+1
+  flutter_launcher_icons: ^0.13.1
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter_launcher_icons:
+  android: true
+  image_path: "assets/logos/app_logo.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - fonts/
+    - assets/i18n/
+    - assets/logos/
+
+fonts:
+  - family: Inter
+    fonts:
+      - asset: fonts/Inter-Regular.ttf
+        style: normal
+      - asset: fonts/Inter-SemiBold.ttf
+        weight: 500
+      - asset: fonts/Inter-Bold.ttf
+        weight: 700

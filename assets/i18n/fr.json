@@ -1,0 +1,34 @@
+{
+  "contacts": "Contacts",
+  "first_name": "Prénom",
+  "last_name": "Nom de famille",
+  "address": "Adresse",
+  "email": "E-mail",
+  "phone": "Téléphone",
+  "login": {
+    "welcome": "Accueillir",
+    "one": "Un",
+    "solution": "solution pour :",
+    "solution_description": "Tous vos problèmes de contact. Le téléphone ne peut pas être vide. Importer des contacts téléphoniques. Le prénom ne peut pas être vide.",
+    "login_with_google": "Connectez-vous avec Google",
+    "back": "<- Retour",
+    "error_phone": "Le téléphone ne peut pas être vide !",
+    "error_name": "Le prénom ne peut pas être vide !",
+    "register": "S'inscrire ->",
+    "logout": "Se déconnecter",
+    "register_normal": "Registre"
+  },
+  "homepage": {
+    "theme": "Thème",
+    "language": "Langue",
+    "no_contacts": "Aucun contact",
+    "call": "Appel",
+    "edit": "Modifr",
+    "remove": "Reer",
+    "save": "Sauver",
+    "update": "Mise à",
+    "add_contact": "Ajouter le contact",
+    "edit_contact": "Modifier le contact",
+    "import_contacts": "Importer des contacts"
+  }
+}

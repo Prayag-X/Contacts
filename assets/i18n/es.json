@@ -1,0 +1,34 @@
+{
+  "contacts": "Contactos",
+  "first_name": "Nombre de pila",
+  "last_name": "Apellido",
+  "address": "DIRECCIÓN",
+  "email": "Correo electrónico",
+  "phone": "Teléfono",
+  "login": {
+    "welcome": "Bienvenido",
+    "one": "Uno",
+    "solution": "solución a:",
+    "solution_description": "Todos tus problemas de contacto. ¡El teléfono no puede estar vacío. Importar contactos telefónicos. ¡El nombre no puede estar vacío!",
+    "login_with_google": "Iniciar sesión con Google",
+    "back": "<- Volver",
+    "error_phone": "¡El teléfono no puede estar vacío!",
+    "error_name": "¡El nombre no puede estar vacío!",
+    "register": "Regístrate ->",
+    "logout": "Cerrar sesión",
+    "register_normal": "Registro"
+  },
+  "homepage": {
+    "theme": "Tema",
+    "language": "Idioma",
+    "no_contacts": "Sin contactos",
+    "call": "Llam",
+    "edit": "Edita",
+    "remove": "Elimin",
+    "save": "Ahorrar",
+    "update": "Actualizar",
+    "add_contact": "Agregar contacto",
+    "edit_contact": "Editar contacto",
+    "import_contacts": "Importar contactos telefónicos"
+  }
+}

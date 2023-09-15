@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "332468819428",
+    "project_id": "contacts-ivykids",
+    "storage_bucket": "contacts-ivykids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332468819428:android:6906bc17d74d70c75fe3f1",
+        "android_client_info": {
+          "package_name": "com.example.contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332468819428-s4h0ddn9dc3ugh4sln9unp3sb679i530.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contacts",
+            "certificate_hash": "7844857fa6979558e3b40eb56695f7f50fcaa1e0"
+          }
+        },
+        {
+          "client_id": "332468819428-cfl1304qvatg0j5jd9hsooqvcelf68al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuGrfMglhz-X3nm2T6fsBROX9ONs0dyAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332468819428-cfl1304qvatg0j5jd9hsooqvcelf68al.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332468819428-gkrkeg8p0032cq2911t4bu1r7v7nugnn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.contacts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
