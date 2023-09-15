@@ -4,16 +4,19 @@ Flutter app to manage Contacts. Assignment for Ivykids.
 
 # Features
 
+- Remember user authentication state
+- Fast enough because it doesn't re-render ListView on Contacts modification
+- Import Contacts from your mobile
+- Search feature for Phone number and Name
+- Voice Search
+- Call the contact from the app
 - Beauttiful UI
 - Smooth Animations
 - Dark Theme and Light Themes
 - 5 Lanuages
-- Remember user authentication state
-- Fast enough because it doesn't re-render ListView on Contacts modification
-- Search feature for Phone number and Name
-- Voice Search
-- Call the contact from the app
-- Import Contacts from your mobile
+- All data safely stored in Firebase
+
+
 
 # Screenshots
 
