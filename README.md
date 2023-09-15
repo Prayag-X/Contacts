@@ -9,6 +9,7 @@ Flutter app to manage Contacts. Assignment for Ivykids.
 - Import Contacts from your mobile
 - Search feature for Phone number and Name
 - Voice Search
+- Add, Modify, Remove Contact
 - Call the contact from the app
 - Beauttiful UI
 - Smooth Animations
