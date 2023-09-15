@@ -1,16 +1,22 @@
-# contacts
+# Contacts
 
-Flutter app to manage Contacts
+Flutter app to manage Contacts. Assignment for Ivykids.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+- Beauttiful UI
+- Smooth Animations
+- Dark Theme and Light Themes
+- 5 Lanuages
+- Remember user authentication state
+- Fast enough because it doesn't re-render ListView on Contacts modification
+- Search feature for Phone number and Name
+- Voice Search
+- Call the contact from the app
+- Import Contacts from your mobile
 
-A few resources to get you started if this is your first Flutter project:
+# Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Environment
+<img alt="GitHub Repo stars" src="https://img.shields.io/badge/flutter-v3.7.6%20stable-blue?color=00092a&labelColor=blue">
+<img alt="GitHub Repo stars" src="https://img.shields.io/badge/dart-v2.19.3-blue?color=00092a&labelColor=blue">
