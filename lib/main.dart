@@ -34,21 +34,6 @@ Future<void> main() async {
   });
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Contacts',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: const Routes(),
-    );
-  }
-}
-
 class Routes extends StatefulWidget {
   const Routes({
     Key? key,
