@@ -2,20 +2,31 @@
 
 Flutter app to manage Contacts. Assignment for Ivykids.
 
+# Demo Video Link
+
+[Drive Link](https://drive.google.com/file/d/1kT1-NFJzcB0tw_xto1dRXxbtAjx4SlZ3/view?usp=sharing)
+
 # Features
 
+- Remember user authentication state
+- Fast enough because it doesn't re-render ListView on Contacts modification
+- Import Contacts from your mobile
+- Search feature for Phone number and Name
+- Voice Search
+- Add, Modify, Remove Contact
+- Call the contact from the app
 - Beauttiful UI
 - Smooth Animations
 - Dark Theme and Light Themes
 - 5 Lanuages
-- Remember user authentication state
-- Fast enough because it doesn't re-render ListView on Contacts modification
-- Search feature for Phone number and Name
-- Voice Search
-- Call the contact from the app
-- Import Contacts from your mobile
+- All data safely stored in Firebase
 
 # Screenshots
+
+| | | | |
+| ------------- | ------------- | -------------- | -------------- |
+| <img src="https://raw.githubusercontent.com/Prayag-X/Contacts/main/screenshots/0.png"> | <img src="https://raw.githubusercontent.com/Prayag-X/Contacts/main/screenshots/1.png"> | <img src="https://raw.githubusercontent.com/Prayag-X/Contacts/main/screenshots/2.png"> | <img src="https://raw.githubusercontent.com/Prayag-X/Contacts/main/screenshots/3.png"> |
+| <img src="https://raw.githubusercontent.com/Prayag-X/Contacts/main/screenshots/4.png"> | <img src="https://raw.githubusercontent.com/Prayag-X/Contacts/main/screenshots/5.png"> | <img src="https://raw.githubusercontent.com/Prayag-X/Contacts/main/screenshots/6.png"> | <img src="https://raw.githubusercontent.com/Prayag-X/Contacts/main/screenshots/7.png"> |
 
 ## Environment
 <img alt="GitHub Repo stars" src="https://img.shields.io/badge/flutter-v3.7.6%20stable-blue?color=00092a&labelColor=blue">
