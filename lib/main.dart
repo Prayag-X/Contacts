@@ -76,7 +76,7 @@ class _RoutesState extends State<Routes> {
     return LocalizationProvider(
       state: LocalizationProvider.of(context).state,
       child: MaterialApp(
-        title: 'Smart City Dashboard',
+        title: 'Contacts',
         localizationsDelegates: [
           GlobalMaterialLocalizations.delegate,
           GlobalWidgetsLocalizations.delegate,
