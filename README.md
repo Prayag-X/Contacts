@@ -1,6 +1,6 @@
 # Contacts
 
-Flutter app to manage Contacts. Assignment for Ivykids.
+Flutter app to manage Contacts.
 
 # Demo Video Link
 
